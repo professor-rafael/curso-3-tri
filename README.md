@@ -1,6 +1,4 @@
-# Pagina-web-desenvolvendo-uma-ferramenta-interativa-de-estudo
 professor-rafael
-
 index.html
 <div class="boxes">
     <div class="box">
