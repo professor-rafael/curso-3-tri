@@ -31,7 +31,7 @@ index.html
 
 
 style.css
-/* From Uiverse.io by Nawsome */ 
+
 .boxes {
   --size: 32px;
   --duration: 800ms;
